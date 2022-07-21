@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
+<<<<<<< HEAD
   <runtime name="jdk-11.0.15.1"/>
+=======
+  <runtime name="jdk-11.0.14"/>
+>>>>>>> branch 'master' of https://github.com/0EH/MemberMgmt.git
   <installed facet="java" version="11"/>
 </faceted-project>
