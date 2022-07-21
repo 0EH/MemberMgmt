@@ -16,7 +16,7 @@ import com.example.domain.UserVo;
 import com.example.service.UserService;
 
 import lombok.extern.java.Log;
-
+//1
 @ExtendWith(SpringExtension.class)
 @ContextConfiguration("classpath:beans.xml")
 @Log

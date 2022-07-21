@@ -28,7 +28,7 @@
 		DELETE FROM users WHERE userid = #{userid}
 	</delete>
 	
-	
+	<!--  -->
 	<update id="updateUser" parameterType="userVo">
 		UPDATE users SET name = #{name}, gender = #{gender}, city = #{city} 
 		WHERE userid = #{userid}

@@ -3,7 +3,7 @@ package com.example.dao;
 import java.util.List;
 
 import com.example.domain.UserVo;
-
+//1
 public interface UserDao {
 	int create(UserVo user);
 	UserVo read(String userid);

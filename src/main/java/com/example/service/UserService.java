@@ -3,7 +3,7 @@ package com.example.service;
 import java.util.List;
 
 import com.example.domain.UserVo;
-
+//1
 public interface UserService {
 	int insertUser(UserVo user);
 	UserVo selectUser(String userid);

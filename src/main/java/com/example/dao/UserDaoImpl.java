@@ -10,7 +10,7 @@ import com.example.domain.UserVo;
 
 @Repository("userDao")
 public class UserDaoImpl implements UserDao {
-
+//1
 	@Autowired
 	private SqlSession sqlSession;
 	
